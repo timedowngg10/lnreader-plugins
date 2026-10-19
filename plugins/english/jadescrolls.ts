@@ -262,3 +262,4 @@ class JadeScrollsPlugin implements Plugin.PluginBase {
 }
 
 export default new JadeScrollsPlugin();
+
